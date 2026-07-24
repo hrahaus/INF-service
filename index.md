@@ -19,8 +19,8 @@ title: Overview
 
   <div style="flex: 1; padding: 15px; border: 1px solid #ddd; border-radius: 8px;">
     <h3> Software</h3>
-    <p>R packages.</p>
-    <a href="packages.html">Learn more →</a>
+    <p>Packages and tools.</p>
+    <a href="Software.html">Learn more →</a>
   </div>
 
 </div>
