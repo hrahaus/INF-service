@@ -17,7 +17,7 @@ title: Overview
     <a href="data.html">Learn more →</a>
   </div>
 
-  <div style="flex: 1; padding: 14px; border: 1px solid #ddd; border-radius: 8px;">
+  <div style="flex: 1; padding: 15px; border: 1px solid #ddd; border-radius: 8px;">
     <h3> Software</h3>
     <p>R packages.</p>
     <a href="packages.html">Learn more →</a>
